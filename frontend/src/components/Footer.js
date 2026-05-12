@@ -12,17 +12,17 @@ function Footer() {
           <div>
             <h3 className="text-white font-bold mb-4">Quick Links</h3>
             <ul className="text-sm space-y-2">
-              <li><a href="#" className="hover:text-green-400">Home</a></li>
-              <li><a href="#" className="hover:text-green-400">Dashboard</a></li>
-              <li><a href="#" className="hover:text-green-400">Documentation</a></li>
+              <li><a href="/" className="hover:text-green-400">Home</a></li>
+              <li><a href="/dashboard" className="hover:text-green-400">Dashboard</a></li>
+              <li><a href="/documentation" className="hover:text-green-400">Documentation</a></li>
             </ul>
           </div>
           <div>
             <h3 className="text-white font-bold mb-4">Resources</h3>
             <ul className="text-sm space-y-2">
-              <li><a href="#" className="hover:text-green-400">Guides</a></li>
-              <li><a href="#" className="hover:text-green-400">API Docs</a></li>
-              <li><a href="#" className="hover:text-green-400">FAQ</a></li>
+              <li><a href="/guides" className="hover:text-green-400">Guides</a></li>
+              <li><a href="/api-docs" className="hover:text-green-400">API Docs</a></li>
+              <li><a href="/faq" className="hover:text-green-400">FAQ</a></li>
             </ul>
           </div>
           <div>
